@@ -1,0 +1,50 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{district_county_city_town}",
+ "creation": "2025-12-12 17:54:56.447574",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "admin_division_level_1",
+  "district_county_city_town"
+ ],
+ "fields": [
+  {
+   "fieldname": "admin_division_level_1",
+   "fieldtype": "Link",
+   "label": "Admin_Division_Level_1",
+   "options": "Admin Level 1 Province_Region_State"
+  },
+  {
+   "fieldname": "district_county_city_town",
+   "fieldtype": "Data",
+   "label": "District / County / City / Town"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2025-12-12 18:29:52.626181",
+ "modified_by": "Administrator",
+ "module": "Country Administrative Divisions",
+ "name": "Admin Division Level 2 Districts_County_City_Town",
+ "naming_rule": "Expression",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
