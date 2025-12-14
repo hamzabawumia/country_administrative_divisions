@@ -1,0 +1,1938 @@
+[
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ga East District",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-12 18:33:17.128129",
+  "name": "Ga East District"
+ },
+ {
+  "admin_division_level_1": "Ashanti",
+  "district_county_city_town": "Kumasi Metropolitan",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-13 22:03:44.485956",
+  "name": "Kumasi Metropolitan"
+ },
+ {
+  "admin_division_level_1": "Greater Accra",
+  "district_county_city_town": "Accra Metropolitan",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-13 22:03:44.532749",
+  "name": "Accra Metropolitan"
+ },
+ {
+  "admin_division_level_1": "Ahafo Region",
+  "district_county_city_town": "Asunafo North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:29.463791",
+  "name": "Asunafo North"
+ },
+ {
+  "admin_division_level_1": "Ahafo Region",
+  "district_county_city_town": "Asunafo South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:37.249033",
+  "name": "Asunafo South"
+ },
+ {
+  "admin_division_level_1": "Ahafo Region",
+  "district_county_city_town": "Asutifi North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:38.084611",
+  "name": "Asutifi North"
+ },
+ {
+  "admin_division_level_1": "Ahafo Region",
+  "district_county_city_town": "Asutifi South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:38.986844",
+  "name": "Asutifi South"
+ },
+ {
+  "admin_division_level_1": "Ahafo Region",
+  "district_county_city_town": "Tano North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:39.038011",
+  "name": "Tano North"
+ },
+ {
+  "admin_division_level_1": "Ahafo Region",
+  "district_county_city_town": "Tano South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:39.044599",
+  "name": "Tano South"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Kumasi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:39.607164",
+  "name": "Kumasi"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Asokore-Mampong",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:40.541417",
+  "name": "Asokore-Mampong"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Oforikrom",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:41.028151",
+  "name": "Oforikrom"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Asokwa",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:41.036885",
+  "name": "Asokwa"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Suame",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:41.044474",
+  "name": "Suame"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Old Tafo",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:41.105252",
+  "name": "Old Tafo"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Kwadaso",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:41.113752",
+  "name": "Kwadaso"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Obuasi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:41.122208",
+  "name": "Obuasi"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Obuasi East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:41.130148",
+  "name": "Obuasi East"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Bekwai",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:41.441374",
+  "name": "Bekwai"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Ejisu",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:41.748962",
+  "name": "Ejisu"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Juaben",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:42.384041",
+  "name": "Juaben"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Atwima-Nwabiagya",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:42.496405",
+  "name": "Atwima-Nwabiagya"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Atwima-Nwabiagya North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:42.507629",
+  "name": "Atwima-Nwabiagya North"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Atwima-Mponua",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:42.515194",
+  "name": "Atwima-Mponua"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Atwima-Kwanwoma",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:42.520491",
+  "name": "Atwima-Kwanwoma"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Afigya-Kwabre South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:42.526397",
+  "name": "Afigya-Kwabre South"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Afigya-Kwabre North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:42.532176",
+  "name": "Afigya-Kwabre North"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Bosomtwe",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:42.538322",
+  "name": "Bosomtwe"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Bosome Freho",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:42.543411",
+  "name": "Bosome Freho"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Sekyere East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:43.277782",
+  "name": "Sekyere East"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Sekyere Afram Plains",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:43.576189",
+  "name": "Sekyere Afram Plains"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Sekyere Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:43.919822",
+  "name": "Sekyere Central"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Sekyere South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:44.139991",
+  "name": "Sekyere South"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Sekyere Kumawu",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:44.778010",
+  "name": "Sekyere Kumawu"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Ahafo-Ano North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:44.881101",
+  "name": "Ahafo-Ano North"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Ahafo-Ano South East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:44.894412",
+  "name": "Ahafo-Ano South East"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Ahafo-Ano South West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:45.372607",
+  "name": "Ahafo-Ano South West"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Amansie West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:45.457218",
+  "name": "Amansie West"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Amansie Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:45.594164",
+  "name": "Amansie Central"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Amansie South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:45.699134",
+  "name": "Amansie South"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Adansi North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.124582",
+  "name": "Adansi North"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Adansi South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.277050",
+  "name": "Adansi South"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Adansi Asokwa",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.318440",
+  "name": "Adansi Asokwa"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Offinso",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.418071",
+  "name": "Offinso"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Offinso North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.538620",
+  "name": "Offinso North"
+ },
+ {
+  "admin_division_level_1": "Ashanti Region",
+  "district_county_city_town": "Mampong",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.585541",
+  "name": "Mampong"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Sunyani",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.591695",
+  "name": "Sunyani"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Sunyani West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.618360",
+  "name": "Sunyani West"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Dormaa Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.628862",
+  "name": "Dormaa Central"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Dormaa East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.637039",
+  "name": "Dormaa East"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Dormaa West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:46.808684",
+  "name": "Dormaa West"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Berekum East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.024403",
+  "name": "Berekum East"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Berekum West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.171602",
+  "name": "Berekum West"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Jaman North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.190385",
+  "name": "Jaman North"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Jaman South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.199106",
+  "name": "Jaman South"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Tain",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.206497",
+  "name": "Tain"
+ },
+ {
+  "admin_division_level_1": "Bono Region",
+  "district_county_city_town": "Wenchi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.269888",
+  "name": "Wenchi"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Techiman",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.285724",
+  "name": "Techiman"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Techiman North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.295856",
+  "name": "Techiman North"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Kintampo North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.304521",
+  "name": "Kintampo North"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Kintampo South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.424419",
+  "name": "Kintampo South"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Nkoranza North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.440062",
+  "name": "Nkoranza North"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Nkoranza South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.454971",
+  "name": "Nkoranza South"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Atebubu-Amantin",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.466716",
+  "name": "Atebubu-Amantin"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Pru East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.494228",
+  "name": "Pru East"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Pru West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.502999",
+  "name": "Pru West"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Sene East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.520960",
+  "name": "Sene East"
+ },
+ {
+  "admin_division_level_1": "Bono East Region",
+  "district_county_city_town": "Sene West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.535484",
+  "name": "Sene West"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Cape Coast",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.558247",
+  "name": "Cape Coast"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Komenda/Edina/Eguafo/Abirem",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.602350",
+  "name": "Komenda/Edina/Eguafo/Abirem"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Mfantsiman",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.647569",
+  "name": "Mfantsiman"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Abura/Asebu/Kwamankese",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:47.913199",
+  "name": "Abura/Asebu/Kwamankese"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Gomoa East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:48.155191",
+  "name": "Gomoa East"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Gomoa West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:48.572118",
+  "name": "Gomoa West"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Gomoa Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:48.607687",
+  "name": "Gomoa Central"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Awutu Senya East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:48.635026",
+  "name": "Awutu Senya East"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Awutu Senya West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:48.767735",
+  "name": "Awutu Senya West"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Effutu",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:49.186181",
+  "name": "Effutu"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Agona East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:49.356545",
+  "name": "Agona East"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Agona West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:49.363547",
+  "name": "Agona West"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Asikuma Odoben Brakwa",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:49.368875",
+  "name": "Asikuma Odoben Brakwa"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Twifo Atti Morkwa",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:49.374187",
+  "name": "Twifo Atti Morkwa"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Twifo/Hemang/Lower Denkyira",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:49.380083",
+  "name": "Twifo/Hemang/Lower Denkyira"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Assin North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:49.385601",
+  "name": "Assin North"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Assin South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:49.391009",
+  "name": "Assin South"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Assin Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:49.588097",
+  "name": "Assin Central"
+ },
+ {
+  "admin_division_level_1": "Central Region",
+  "district_county_city_town": "Ekumfi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:51.420561",
+  "name": "Ekumfi"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "New Juaben North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:51.430941",
+  "name": "New Juaben North"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "New Juaben South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:51.524441",
+  "name": "New Juaben South"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Abuakwa North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:51.673704",
+  "name": "Abuakwa North"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Abuakwa South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:52.062750",
+  "name": "Abuakwa South"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Akuapim North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:52.131694",
+  "name": "Akuapim North"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Akuapim South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:52.253880",
+  "name": "Akuapim South"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Yilo-Krobo",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:52.426182",
+  "name": "Yilo-Krobo"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Upper Manya Krobo",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:52.530124",
+  "name": "Upper Manya Krobo"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Lower Manya Krobo",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:52.563934",
+  "name": "Lower Manya Krobo"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Atiwa East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:52.737278",
+  "name": "Atiwa East"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Atiwa West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:52.975773",
+  "name": "Atiwa West"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Fanteakwa North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:53.611205",
+  "name": "Fanteakwa North"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Fanteakwa South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:53.916184",
+  "name": "Fanteakwa South"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Kwahu Afram Plains North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:53.945814",
+  "name": "Kwahu Afram Plains North"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Kwahu Afram Plains South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:53.951194",
+  "name": "Kwahu Afram Plains South"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Kwahu East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:53.966203",
+  "name": "Kwahu East"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Kwahu South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:54.012294",
+  "name": "Kwahu South"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Kwahu West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:54.031225",
+  "name": "Kwahu West"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Nsawam Adoagyire",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:54.045399",
+  "name": "Nsawam Adoagyire"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Suhum",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:54.052452",
+  "name": "Suhum"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Ayensuano",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:54.196250",
+  "name": "Ayensuano"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Akyemansa",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:54.495232",
+  "name": "Akyemansa"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Birim Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:54.839877",
+  "name": "Birim Central"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Birim South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:55.454991",
+  "name": "Birim South"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Birim North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:55.693030",
+  "name": "Birim North"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Kwaebibirem",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.453161",
+  "name": "Kwaebibirem"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Denkyembour",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.468919",
+  "name": "Denkyembour"
+ },
+ {
+  "admin_division_level_1": "Eastern Region",
+  "district_county_city_town": "Okere",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.477107",
+  "name": "Okere"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Accra",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.556242",
+  "name": "Accra"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Tema Metropolitan",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.562432",
+  "name": "Tema Metropolitan"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ga West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.569700",
+  "name": "Ga West"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ga East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.576737",
+  "name": "Ga East"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ga South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.582581",
+  "name": "Ga South"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ada East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.588625",
+  "name": "Ada East"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ada West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.594041",
+  "name": "Ada West"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ningo-Prampram",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.599921",
+  "name": "Ningo-Prampram"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Shai-Osudoku",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.605400",
+  "name": "Shai-Osudoku"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "La-Dade-Kotopon",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.611010",
+  "name": "La-Dade-Kotopon"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "La-Nkwantanang-Madina",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.616349",
+  "name": "La-Nkwantanang-Madina"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Korle-Klottey",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.623793",
+  "name": "Korle-Klottey"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Krowor",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.630429",
+  "name": "Krowor"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ledzokuku",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.636123",
+  "name": "Ledzokuku"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ablekuma North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.668189",
+  "name": "Ablekuma North"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ablekuma Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.701078",
+  "name": "Ablekuma Central"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ablekuma West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.706501",
+  "name": "Ablekuma West"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ayawaso North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.712680",
+  "name": "Ayawaso North"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ayawaso East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:56.717800",
+  "name": "Ayawaso East"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ayawaso West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:57.855293",
+  "name": "Ayawaso West"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ayawaso Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.011465",
+  "name": "Ayawaso Central"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Okaikwei North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.017373",
+  "name": "Okaikwei North"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Adenta",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.022655",
+  "name": "Adenta"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ga Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.030999",
+  "name": "Ga Central"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Ga North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.036858",
+  "name": "Ga North"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Weija Gbawe",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.042479",
+  "name": "Weija Gbawe"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Kpone-Katamanso",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.047940",
+  "name": "Kpone-Katamanso"
+ },
+ {
+  "admin_division_level_1": "Greater Accra Region",
+  "district_county_city_town": "Tema West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.054962",
+  "name": "Tema West"
+ },
+ {
+  "admin_division_level_1": "North East Region",
+  "district_county_city_town": "East Mamprusi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.060744",
+  "name": "East Mamprusi"
+ },
+ {
+  "admin_division_level_1": "North East Region",
+  "district_county_city_town": "West Mamprusi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.069429",
+  "name": "West Mamprusi"
+ },
+ {
+  "admin_division_level_1": "North East Region",
+  "district_county_city_town": "Bunkpurugu Nyankpanduri",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.081216",
+  "name": "Bunkpurugu Nyankpanduri"
+ },
+ {
+  "admin_division_level_1": "North East Region",
+  "district_county_city_town": "Yunyoo-Nasuan",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.086418",
+  "name": "Yunyoo-Nasuan"
+ },
+ {
+  "admin_division_level_1": "North East Region",
+  "district_county_city_town": "Mamprugu Moagduri",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.092180",
+  "name": "Mamprugu Moagduri"
+ },
+ {
+  "admin_division_level_1": "North East Region",
+  "district_county_city_town": "Chereponi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.186435",
+  "name": "Chereponi"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Tamale Metropolitan",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.543348",
+  "name": "Tamale Metropolitan"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Sagnarigu Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:58.760751",
+  "name": "Sagnarigu Municipal"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Savelugu Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:59.015001",
+  "name": "Savelugu Municipal"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Nanton",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:59.509391",
+  "name": "Nanton"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Kumbungu",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:59.521594",
+  "name": "Kumbungu"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Tolon",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:59.591779",
+  "name": "Tolon"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Mion",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:59.633736",
+  "name": "Mion"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Karaga",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:04:59.774742",
+  "name": "Karaga"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Gushegu Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:00.040104",
+  "name": "Gushegu Municipal"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Yendi Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:00.081600",
+  "name": "Yendi Municipal"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Zabzugu",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:00.209890",
+  "name": "Zabzugu"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Saboba",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:00.473388",
+  "name": "Saboba"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Tatale Sanguli",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:00.992819",
+  "name": "Tatale Sanguli"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Nanumba North Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:01.310967",
+  "name": "Nanumba North Municipal"
+ },
+ {
+  "admin_division_level_1": "Northern Region",
+  "district_county_city_town": "Nanumba South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:01.870980",
+  "name": "Nanumba South"
+ },
+ {
+  "admin_division_level_1": "Oti Region",
+  "district_county_city_town": "Jasikan",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:01.927352",
+  "name": "Jasikan"
+ },
+ {
+  "admin_division_level_1": "Oti Region",
+  "district_county_city_town": "Kadjebi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:01.935061",
+  "name": "Kadjebi"
+ },
+ {
+  "admin_division_level_1": "Oti Region",
+  "district_county_city_town": "Biakoye",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:01.941157",
+  "name": "Biakoye"
+ },
+ {
+  "admin_division_level_1": "Oti Region",
+  "district_county_city_town": "Krachi East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:01.946448",
+  "name": "Krachi East"
+ },
+ {
+  "admin_division_level_1": "Oti Region",
+  "district_county_city_town": "Krachi West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:01.973857",
+  "name": "Krachi West"
+ },
+ {
+  "admin_division_level_1": "Oti Region",
+  "district_county_city_town": "Krachi Nchumuru",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:02.029730",
+  "name": "Krachi Nchumuru"
+ },
+ {
+  "admin_division_level_1": "Oti Region",
+  "district_county_city_town": "Nkwanta North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:02.038779",
+  "name": "Nkwanta North"
+ },
+ {
+  "admin_division_level_1": "Oti Region",
+  "district_county_city_town": "Nkwanta South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:02.044699",
+  "name": "Nkwanta South"
+ },
+ {
+  "admin_division_level_1": "Oti Region",
+  "district_county_city_town": "Guan",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:02.050066",
+  "name": "Guan"
+ },
+ {
+  "admin_division_level_1": "Savannah Region",
+  "district_county_city_town": "East Gonja Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:02.056692",
+  "name": "East Gonja Municipal"
+ },
+ {
+  "admin_division_level_1": "Savannah Region",
+  "district_county_city_town": "Central Gonja",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:02.345552",
+  "name": "Central Gonja"
+ },
+ {
+  "admin_division_level_1": "Savannah Region",
+  "district_county_city_town": "West Gonja",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:02.544421",
+  "name": "West Gonja"
+ },
+ {
+  "admin_division_level_1": "Savannah Region",
+  "district_county_city_town": "North Gonja",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:02.958811",
+  "name": "North Gonja"
+ },
+ {
+  "admin_division_level_1": "Savannah Region",
+  "district_county_city_town": "North East Gonja",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:03.181204",
+  "name": "North East Gonja"
+ },
+ {
+  "admin_division_level_1": "Savannah Region",
+  "district_county_city_town": "Bole",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:03.448895",
+  "name": "Bole"
+ },
+ {
+  "admin_division_level_1": "Savannah Region",
+  "district_county_city_town": "Sawla-Tuna-Kalba",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:03.766029",
+  "name": "Sawla-Tuna-Kalba"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Bolgatanga Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:04.073877",
+  "name": "Bolgatanga Municipal"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Bolgatanga East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:04.549818",
+  "name": "Bolgatanga East"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Bongo",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:04.870519",
+  "name": "Bongo"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Talensi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:05.130840",
+  "name": "Talensi"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Nabdam",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:05.578110",
+  "name": "Nabdam"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Builsa North Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:06.180305",
+  "name": "Builsa North Municipal"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Builsa South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:06.534107",
+  "name": "Builsa South"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Kassena-Nankana Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:06.894805",
+  "name": "Kassena-Nankana Municipal"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Kassena-Nankana West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:06.964050",
+  "name": "Kassena-Nankana West"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Bawku Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:07.391324",
+  "name": "Bawku Municipal"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Bawku West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:07.746926",
+  "name": "Bawku West"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Binduri",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:07.791508",
+  "name": "Binduri"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Garu",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:07.953462",
+  "name": "Garu"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Pusiga",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.110795",
+  "name": "Pusiga"
+ },
+ {
+  "admin_division_level_1": "Upper East Region",
+  "district_county_city_town": "Tempane",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.349757",
+  "name": "Tempane"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Wa Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.410187",
+  "name": "Wa Municipal"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Wa East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.448661",
+  "name": "Wa East"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Wa West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.463721",
+  "name": "Wa West"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Lawra Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.496627",
+  "name": "Lawra Municipal"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Nandom Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.511749",
+  "name": "Nandom Municipal"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Jirapa Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.519004",
+  "name": "Jirapa Municipal"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Lambussie Karni",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.634844",
+  "name": "Lambussie Karni"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Sissala East Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.662179",
+  "name": "Sissala East Municipal"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Sissala West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.667401",
+  "name": "Sissala West"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Daffiama Bussie Issa",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.729974",
+  "name": "Daffiama Bussie Issa"
+ },
+ {
+  "admin_division_level_1": "Upper West Region",
+  "district_county_city_town": "Nadowli-Kaleo",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.821071",
+  "name": "Nadowli-Kaleo"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Ho Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:08.837751",
+  "name": "Ho Municipal"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Ho West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:09.014161",
+  "name": "Ho West"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Afadzato South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:09.613742",
+  "name": "Afadzato South"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "South Dayi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:10.241111",
+  "name": "South Dayi"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "North Dayi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:10.718538",
+  "name": "North Dayi"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Kpando Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:10.731485",
+  "name": "Kpando Municipal"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Hohoe Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:10.736697",
+  "name": "Hohoe Municipal"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Anloga",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:10.750704",
+  "name": "Anloga"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Keta Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:10.762745",
+  "name": "Keta Municipal"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Ketu North Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:10.768473",
+  "name": "Ketu North Municipal"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Ketu South Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.028130",
+  "name": "Ketu South Municipal"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Akatsi North",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.038697",
+  "name": "Akatsi North"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "Akatsi South",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.044721",
+  "name": "Akatsi South"
+ },
+ {
+  "admin_division_level_1": "Volta Region",
+  "district_county_city_town": "AgOti Regionme-Ziope",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.050457",
+  "name": "AgOti Regionme-Ziope"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Sekondi Takoradi Metropolitan",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.195398",
+  "name": "Sekondi Takoradi Metropolitan"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Effia Kwesimintsim Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.205558",
+  "name": "Effia Kwesimintsim Municipal"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Ahanta West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.213454",
+  "name": "Ahanta West"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Nzema East Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.221396",
+  "name": "Nzema East Municipal"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Jomoro",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.272831",
+  "name": "Jomoro"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Ellembele",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.278118",
+  "name": "Ellembele"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Wassa Amenfi East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.344548",
+  "name": "Wassa Amenfi East"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Wassa Amenfi West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:11.353653",
+  "name": "Wassa Amenfi West"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Wassa Amenfi Central",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:12.048417",
+  "name": "Wassa Amenfi Central"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Tarkwa-Nsuaem Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:12.325330",
+  "name": "Tarkwa-Nsuaem Municipal"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Prestea-Huni Valley Municipal",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:12.567371",
+  "name": "Prestea-Huni Valley Municipal"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Shama",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:12.733206",
+  "name": "Shama"
+ },
+ {
+  "admin_division_level_1": "Western Region",
+  "district_county_city_town": "Wassa East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:12.891851",
+  "name": "Wassa East"
+ },
+ {
+  "admin_division_level_1": "Western North Region",
+  "district_county_city_town": "Bia East",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:12.970916",
+  "name": "Bia East"
+ },
+ {
+  "admin_division_level_1": "Western North Region",
+  "district_county_city_town": "Bia West",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:13.114296",
+  "name": "Bia West"
+ },
+ {
+  "admin_division_level_1": "Western North Region",
+  "district_county_city_town": "Bibiani Anhwiaso Bekwai",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:13.119548",
+  "name": "Bibiani Anhwiaso Bekwai"
+ },
+ {
+  "admin_division_level_1": "Western North Region",
+  "district_county_city_town": "Juaboso",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:13.125213",
+  "name": "Juaboso"
+ },
+ {
+  "admin_division_level_1": "Western North Region",
+  "district_county_city_town": "Sefwi Akontombra",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:13.131825",
+  "name": "Sefwi Akontombra"
+ },
+ {
+  "admin_division_level_1": "Western North Region",
+  "district_county_city_town": "Sefwi-Wiawso",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:13.139768",
+  "name": "Sefwi-Wiawso"
+ },
+ {
+  "admin_division_level_1": "Western North Region",
+  "district_county_city_town": "Bodi",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:13.299038",
+  "name": "Bodi"
+ },
+ {
+  "admin_division_level_1": "Western North Region",
+  "district_county_city_town": "Aowin",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:13.306674",
+  "name": "Aowin"
+ },
+ {
+  "admin_division_level_1": "Western North Region",
+  "district_county_city_town": "Suaman",
+  "docstatus": 0,
+  "doctype": "Admin Division Level 2 Districts_County_City_Town",
+  "modified": "2025-12-14 00:05:13.330229",
+  "name": "Suaman"
+ }
+]

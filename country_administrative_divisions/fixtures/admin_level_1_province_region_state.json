@@ -1,0 +1,146 @@
+[
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-12 18:28:41.268186",
+  "name": "Greater Accra Region",
+  "province_region_state": "Greater Accra Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-13 22:03:40.543359",
+  "name": "Ashanti",
+  "province_region_state": "Ashanti"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-13 22:03:44.163261",
+  "name": "Greater Accra",
+  "province_region_state": "Greater Accra"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:03.894053",
+  "name": "Ahafo Region",
+  "province_region_state": "Ahafo Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:20.107449",
+  "name": "Ashanti Region",
+  "province_region_state": "Ashanti Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:20.657506",
+  "name": "Bono Region",
+  "province_region_state": "Bono Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:22.230801",
+  "name": "Bono East Region",
+  "province_region_state": "Bono East Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:22.239249",
+  "name": "Central Region",
+  "province_region_state": "Central Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:22.247350",
+  "name": "Eastern Region",
+  "province_region_state": "Eastern Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:22.257605",
+  "name": "North East Region",
+  "province_region_state": "North East Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:22.264610",
+  "name": "Northern Region",
+  "province_region_state": "Northern Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:22.268939",
+  "name": "Oti Region",
+  "province_region_state": "Oti Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:22.316529",
+  "name": "Savannah Region",
+  "province_region_state": "Savannah Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:22.471306",
+  "name": "Upper East Region",
+  "province_region_state": "Upper East Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:22.940089",
+  "name": "Upper West Region",
+  "province_region_state": "Upper West Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:23.382528",
+  "name": "Volta Region",
+  "province_region_state": "Volta Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:23.498925",
+  "name": "Western Region",
+  "province_region_state": "Western Region"
+ },
+ {
+  "country_id": "Ghana",
+  "docstatus": 0,
+  "doctype": "Admin Level 1 Province_Region_State",
+  "modified": "2025-12-14 00:04:23.845556",
+  "name": "Western North Region",
+  "province_region_state": "Western North Region"
+ }
+]

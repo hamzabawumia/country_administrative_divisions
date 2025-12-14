@@ -242,3 +242,11 @@ app_license = "mit"
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
 
+fixtures = [
+    {
+        "doctype": "Admin Level 1 Province_Region_State"
+    },
+    {
+        "doctype": "Admin Division Level 2 Districts_County_City_Town"
+    }
+]
